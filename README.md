@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erikachenchan
-- 👀 I’m interested in web app development & UX design
+- 👀 I’m interested in web app development
 - 🌱 I’m currently learning Java & CSS
 
 
