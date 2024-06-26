@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @erikachenchan
+- 👋 Hi, I’m @erikachenchan, a UX designer based in Makati
 - 👀 I’m interested in web app development
-- 🌱 I’m currently learning Java & CSS
+
 
 
 <!---
